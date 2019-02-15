@@ -294,5 +294,5 @@ ORDER BY ec.client_net_address, es.[program_name] OPTION (RECOMPILE);
 -- This helps you figure where your database load is coming from
 -- and verifies connectivity from other machines
 
--- Solving Connectivity errors to SQL Server
+-- Solving Connectivity errors to SQL Server.
 -- https://bit.ly/2EgzoD0
